@@ -1,0 +1,9 @@
+[test]
+key = 114514
+
+a_key_with_str = "hello world"
+a_key_with_int = 123456
+a_key_with_float = 3.1415926535897932
+a_key_with_bool = true
+a_key_with_list = ["apple", "banana", "cherry"]
+a_key_with_dict = {"name" = "John", "age" = 30, "city" = "New York"}
